@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/officialtenge/static/css/main.34581182.css",
+    "main.js": "/officialtenge/static/js/main.2e288826.js",
+    "static/js/453.52c63e2b.chunk.js": "/officialtenge/static/js/453.52c63e2b.chunk.js",
+    "static/media/bbg4.png": "/officialtenge/static/media/bbg4.131d26a0f433424cf0a7.png",
+    "static/media/tenge1.PNG": "/officialtenge/static/media/tenge1.b439847bc31153ca79ed.PNG",
+    "static/media/abouttenge.png": "/officialtenge/static/media/abouttenge.0e1bc9967941ef1f450e.png",
+    "static/media/bbg1.png": "/officialtenge/static/media/bbg1.7ce12c898f2fbeacc283.png",
+    "static/media/tengecom.jpg": "/officialtenge/static/media/tengecom.8248fca31efaa8e74748.jpg",
+    "static/media/tengebg.jpg": "/officialtenge/static/media/tengebg.f5a3a58e5ce7be32ad5e.jpg",
+    "static/media/BebasNeue-Regular.ttf": "/officialtenge/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "static/media/allocation.PNG": "/officialtenge/static/media/allocation.c0a2184522fa698fd43a.PNG",
+    "static/media/solana-sol-logo_1solana-sol-logo.webp": "/officialtenge/static/media/solana-sol-logo_1solana-sol-logo.69913ae832af9c840ff5.webp",
+    "static/media/usdc.webp": "/officialtenge/static/media/usdc.b9697c97b08ef77bcc54.webp",
+    "index.html": "/officialtenge/index.html",
+    "main.34581182.css.map": "/officialtenge/static/css/main.34581182.css.map",
+    "main.2e288826.js.map": "/officialtenge/static/js/main.2e288826.js.map",
+    "453.52c63e2b.chunk.js.map": "/officialtenge/static/js/453.52c63e2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34581182.css",
+    "static/js/main.2e288826.js"
+  ]
+}
