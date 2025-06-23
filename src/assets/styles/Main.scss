@@ -1,0 +1,50 @@
+.main_hero_text {
+  letter-spacing: 1px;
+  text-shadow: 5px 8px 20px #000;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  font-family: "Bebus Neue", sans-serif;
+  font-weight: 900;
+  line-height: 5.9rem;
+}
+
+.main_pic_container {
+  perspective: 1000px;
+  object-fit: fill;
+  height: 80vh;
+  flex-flow: wrap;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.2s ease-in-out;
+  display: flex;
+  top: 0;
+  overflow: visible;
+  transform: perspective(1000px);
+
+  .main_pic {
+    aspect-ratio: auto;
+    object-fit: cover;
+    border-radius: 20px;
+    margin: auto;
+    /* padding: 2%; */
+    position: relative;
+    overflow: visible;
+
+    &.3d_pic {
+      -webkit-backdrop-filter: none;
+      backdrop-filter: none;
+      mix-blend-mode: normal;
+      border-style: none;
+      max-width: none;
+      margin: 0%;
+      padding: 0%;
+    }
+  }
+}
+
+.about_left_text {
+  font-family: "Bebus Neue", sans-serif;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 3.2rem;
+}
